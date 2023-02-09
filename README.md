@@ -29,4 +29,6 @@ Bu proje ile Kandilli rasathanesinin yayınladığı son 500 depremin harita üs
 #### Deprem detay:
 ![detay](https://user-images.githubusercontent.com/52050768/217857278-f3261f1b-a04c-49cf-af54-dc657160ab6c.png)
 
-Not: örnek çıktılar 9 Şubat 2023 de alınmıştır.
+Not: Örnek çıktılar 9 Şubat 2023 de alınmıştır.
+
+Not2: index.py dosyası benim de katkıda bulunmuş olduğum  [buradan](https://github.com/emirkabal/deprem-api) alınmıştır.
